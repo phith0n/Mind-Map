@@ -1,0 +1,3 @@
+[submodule "sec-chart"]
+	path = sec-chart
+	url = https://github.com/SecWiki/sec-chart.git
