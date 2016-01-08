@@ -13,6 +13,7 @@
 #### [业务安全top10](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E4%B8%9A%E5%8A%A1%E5%AE%89%E5%85%A8top10.png)
 #### [xss virus 1.0](https://raw.githubusercontent.com/phith0n/Mind-Map/master/xss%20virus%201.0.png)
 #### [XSS脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/XSS%E8%84%91%E5%9B%BE.png)
+#### [XSS2](https://raw.githubusercontent.com/phith0n/Mind-Map/master/XSS2.png)
 #### [XML安全汇总](https://raw.githubusercontent.com/phith0n/Mind-Map/master/XML%E5%AE%89%E5%85%A8%E6%B1%87%E6%80%BB.png)
 #### [Web应用安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Web%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%28By%20Neeao%29.jpg)
 #### [SSRF脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/SSRF%E8%84%91%E5%9B%BE.jpg)
