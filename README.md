@@ -21,3 +21,5 @@
 #### [PHP代码审计脑图](https://github.com/phith0n/Mind-Map/raw/master/PHP%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%84%91%E5%9B%BE.png)
 #### [Nmap 思维导图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Nmap%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 #### [Linux Security Coaching](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Linux%20Security%20Coaching.png)
+#### [入门二进制漏洞分析脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/入门二进制漏洞分析脑图.png)
+#### [nmap渗透测试指南](https://raw.githubusercontent.com/phith0n/Mind-Map/master/nmap渗透测试指南.png)
