@@ -40,3 +40,5 @@
 #### [业务安全脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/业务安全脑图.jpg)
 
 #### [web-内网基本流程小结](https://raw.githubusercontent.com/phith0n/Mind-Map/master/web-内网基本流程小结.jpg)
+
+#### [Web架构中的安全问题](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Web架构中的安全问题.png)
