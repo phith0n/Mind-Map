@@ -42,3 +42,5 @@
 #### [web-内网基本流程小结](https://raw.githubusercontent.com/phith0n/Mind-Map/master/web-内网基本流程小结.jpg)
 
 #### [Web架构中的安全问题](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Web架构中的安全问题.png)
+
+#### [域名搜集途径](https://raw.githubusercontent.com/phith0n/Mind-Map/master/域名搜集途径.png)
