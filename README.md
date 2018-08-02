@@ -1,4 +1,5 @@
 # Mind-Map
+
 各种安全相关思维导图整理收集  
 
 #### [运维安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8.png)  
@@ -44,3 +45,5 @@
 #### [Web架构中的安全问题](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Web架构中的安全问题.png)
 
 #### [域名搜集途径](https://raw.githubusercontent.com/phith0n/Mind-Map/master/域名搜集途径.png)
+
+#### [2018年信息安全从业者书单推荐](https://raw.githubusercontent.com/phith0n/Mind-Map/master/2018年信息安全从业者书单推荐.jpg)
